@@ -39,7 +39,7 @@ h5 {
   font-weight: 400;
 }
 h6 {
-  color: #777;
+  color: #ffffff;
   font-size: 12px !important;
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
@@ -303,7 +303,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .header-top {
   padding: 10px 0;
-  background: rgba(255, 255, 255, 0.8);
+  background: rgb(19 34 87);
   position: absolute;
   top: 0;
   left: 0;
@@ -342,7 +342,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-left: 15px;
 }
 .header-top .social-links ul li a {
-  color: #777;
+  color: #ffffff;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -413,7 +413,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .banner-area {
   padding: 320px 0 270px;
-  background-color: #c3c3c3;
+  background-color: #ffffff;
   background-image: url("../images/Banners/banner-nosotros.jpg");
   background-repeat: no-repeat;
   background-position: center;
