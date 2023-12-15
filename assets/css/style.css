@@ -412,12 +412,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 .banner-area {
-  padding: 400px 0 350px;
-  background-color: #b0b0b0;
+  padding: 320px 0 270px;
+  background-color: #c3c3c3;
   background-image: url("../images/Banners/banner-nosotros.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
   position: relative;
 }
 @media (min-width: 768px) and (max-width: 991.98px) {
@@ -738,7 +738,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .hotline-area {
   color: #fff;
-  background-image: url("../images/hotline-bg.jpg");
+  background-image: url("../images/Banners/Banner1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -754,8 +754,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 100%;
   background-image: linear-gradient(
     to top right,
-    rgba(36, 76, 253, 0.9),
-    rgba(21, 228, 253, 0.9)
+    rgba(36, 76, 253, 0.552),
+    rgba(21, 230, 253, 0.386)
   );
   z-index: -1;
 }
