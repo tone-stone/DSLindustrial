@@ -414,11 +414,48 @@ body.mobile-nav-active #mobile-nav-toggle {
 .banner-area {
   padding: 320px 0 270px;
   background-color: #ffffff;
+  background-image: url("../images/Banners/Banner1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  position: relative;
+}
+.banner-area2 {
+  padding: 320px 0 270px;
+  background-color: #ffffff;
   background-image: url("../images/Banners/banner-nosotros.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
   position: relative;
+}
+.banner-area3 {
+  padding: 320px 0 270px;
+  background-color: #ffffff;
+  background-image: url("../images/Banners/banner-productos.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  position: relative;
+}
+.banner-area4 {
+  padding: 320px 0 270px;
+  background-color: #ffffff;
+  background-image: url("../images/Banners/banner-SeguridadIndustrial.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  position: relative;
+}
+.banner-area5 {
+  padding: 320px 0 80px;
+  background-color: #ffffff;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  position: relative;
+
 }
 @media (min-width: 768px) and (max-width: 991.98px) {
   .banner-area {
@@ -859,7 +896,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 10px;
 }
 .footer-copyright {
-  margin-top: 70px;
+  margin-top: 30px;
 }
 .footer-copyright .color {
   color: #244cfd;
