@@ -417,7 +417,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-image: url("../images/Banners/Banner1.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
+  background-size: cover;
   position: relative;
 }
 .banner-area2 {
@@ -453,7 +453,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-image: url("");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
+  background-size: cover;
   position: relative;
 
 }
