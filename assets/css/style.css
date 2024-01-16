@@ -421,7 +421,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
 }
 .banner-area2 {
-  padding: 380px 0 330px;
+  padding: 33% 0;
   background-color: #ffffff;
   background-image: url("../images/Banners/banner-nosotros.jpg");
   background-repeat: no-repeat;
@@ -430,7 +430,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
 }
 .banner-area3 {
-  padding: 380px 0 330px;
+  padding: 33% 0;
   background-color: #ffffff;
   background-image: url("../images/Banners/banner-productos.jpg");
   background-repeat: no-repeat;
@@ -439,7 +439,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
 }
 .banner-area4 {
-  padding: 380px 0 330px;
+  padding: 33% 0;
   background-color: #ffffff;
   background-image: url("../images/Banners/banner-SeguridadIndustrial.jpg");
   background-repeat: no-repeat;
@@ -448,7 +448,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
 }
 .banner-area5 {
-  padding: 320px 0 80px;
+  padding: 33% 0;
   background-color: #ffffff;
   background-image: url("");
   background-repeat: no-repeat;
